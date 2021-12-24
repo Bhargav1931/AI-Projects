@@ -1,6 +1,5 @@
 ### Hi there 👋
-I am Chimpada Bhargav and
-Follow Lilli to know more about me :)
+I am Pandraka Bhargav 
 <!--
 **Bhargav1931/Bhargav1931** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
