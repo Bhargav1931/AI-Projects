@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Pandraka Bhargav 
+This is a Project on House Price Prediction Using Regression Techniques 
 <!--
 **Bhargav1931/Bhargav1931** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
